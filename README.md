@@ -31,4 +31,8 @@ Removed additional feature, that is the 'USE_CASE' column. Rest of the model sta
 
 the model reach the accuracy of 64% after we drop useless Column  
 
+## Summary
+
+
+The model ended up with the accuracy score of 64% after optimization. The initial neural network had a accuracy score of 52%. This gain in accuracy can be explained from the fact that the model overfitted. Furthermore, we could further also optimize our neural network by removing more features or simply adding more data to the dataset to increase accuracy. 
 
